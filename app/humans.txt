@@ -4,6 +4,8 @@
 # TEAM
 
   <name> -- <role> -- <twitter>
+  Ligin Vellakkad -- Developer
+  Alen Thomas -- Developer
 
 # THANKS
 

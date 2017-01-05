@@ -2,7 +2,7 @@
 
 ## Getting the code
 
- Download/Clone the repo to where you want to work.
+ [Download](https://github.com/liginv/kozhikoden_web_app/archive/master.zip)/[Clone](https://github.com/liginv/kozhikoden_web_app.git) the repo to where you want to work.
 
 ## Prerequisites
 

@@ -30,11 +30,7 @@
     "psi": "^2.0.4",
     "run-sequence": "^1.0.1",
     "sw-precache": "^3.2.0",
-    "sw-toolbox": "^3.2.1",
-    "vue-loader": "^10.0.0",
-    "vue-style-loader": "^1.0.0",
-    "vue-template-compiler": "^2.1.0",
-    "vueify": "^9.4.0"
+    "sw-toolbox": "^3.2.1"
   },
   "engines": {
     "node": ">=0.12"
